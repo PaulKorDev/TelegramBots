@@ -10,6 +10,7 @@ Bot has two modes: simple conversation and super private
 I wrote this bot a long ago, so I dont remember what functionality is now implemented in it.
 
 Simple conversation mode
+
 Menu:
 - Account settings,
 - My dialogs
@@ -18,6 +19,7 @@ Menu:
 Chat menu: block the user.
 
 Super private mode:
+
 All messages are automatically deleted, after reading them by the recipient.
 
 User oportunities:
