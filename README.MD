@@ -1,7 +1,7 @@
-#About what?
+# About what?
 These are my old telegram bots on Python, which I wrote when I still studied at school.
 
-##Anonymous communication
+## Anonymous communication
 The bot is a mini social network. This bot connects 2 people and allows them to communicate, holding their real personalities a secret. The bot sends messages to the recipient on his own behalf. This is not a random chat, you find the user by nickname.
 
 First, the user must create a pseudonym, and then he can find the interlocutor
@@ -47,7 +47,7 @@ User oportunities:
 ? Commands and their description (can add buttons):
 - /Blacklist - Add the user to blacklist
 
-##Humorous personal growth course
+## Humorous personal growth course
 This bot  is a comic parody of personal growth courses
 
 Bot who preaches humorous teaching
