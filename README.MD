@@ -7,6 +7,7 @@ The bot is a mini social network. This bot connects 2 people and allows them to 
 First, the user must create a pseudonym, and then he can find the interlocutor
 
 Bot has two modes: simple conversation and super private
+
 I wrote this bot a long ago, so I dont remember what functionality is now implemented in it.
 
 Simple conversation mode
